@@ -1,19 +1,19 @@
 <h1 align="center">Hello, I am Kostya Amelichev</h1>
-<h3 align="center">A C++/Rust/Python developer, have background applying my coding skills in teaching, advertisement, human rights, high-frequency trading</h3>
+<h3 align="center">A C++/Rust/Python developer, <br> applying my coding skills in teaching, advertisement, human rights, high-frequency trading</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p>
 
-- 🔭 I’m currently working on **High Nu infrastructure**
+- 🔭 I’m currently working on **High Nu infrastructure**, ex-developer in Tinkoff.ru
 
-- 🌱 I’m currently learning **Computer Vision, Game development**
+- 🌱 I’m currently learning **Computer Vision, Game development**, also pursuing bachelor CS degree in HSE 
 
-- 📝 I regularly write articles on [t.me/blog_27325](t.me/blog_27325)
+- 📝 I regularly write [posts in personal blog](t.me/blog_27325), [longreads](github.com/kik0s/articles)
 
 - 📫 How to reach me **kostya.amelichev@gmail.com, t.me/kik0s**
 
-- 📄 Know about my experiences [github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md](github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md)
+- 📄 Know about my experiences [CV](github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
