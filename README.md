@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Kostya Amelichev</h1>
-<h3 align="center">A C++/Rust/Python developer, have background applying my skills in teaching, advertisement, human rights, high-frequency trading</h3>
+<h3 align="center">A C++/Rust/Python developer, have background applying my coding skills in teaching, advertisement, human rights, high-frequency trading</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s" /> </p>
 
