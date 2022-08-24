@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Computer Vision, Game development**, also pursuing bachelor CS degree in HSE 
 
-- 📝 I regularly write [posts in personal blog](t.me/blog_27325), [longreads](github.com/kik0s/articles)
+- 📝 I regularly write [posts in personal blog](https://t.me/blog_27325), [longreads](github.com/kik0s/articles)
 
-- 📫 How to reach me **kostya.amelichev@gmail.com, t.me/kik0s**
+- 📫 How to reach me **kostya.amelichev@gmail.com, [t.me/kik0s](https://t.me/kik0s)**
 
 - 📄 Know about my experiences [CV](github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md)
 
