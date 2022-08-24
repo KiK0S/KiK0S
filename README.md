@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kostya.amelichev@gmail.com, [t.me/kik0s](https://t.me/kik0s)**
 
-- 📄 Know about my experiences [CV](github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md)
+- 📄 Know about my experiences [CV](https://github.com/KiK0S/articles/blob/main/cv-eng/cv-eng.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
