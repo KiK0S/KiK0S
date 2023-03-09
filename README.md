@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p>
 
-- 🔭 I’m currently working on **High Nu infrastructure**, ex-developer in Tinkoff.ru
+- 🔭 I’m currently working in **Neiro.ai** as backend developer, ex adtech developer in Tinkoff.ru
 
-- 🌱 I’m currently learning **Computer Vision, Game development**, also pursuing bachelor CS degree in HSE 
+- 🌱 I’m currently learning **Computer Vision, Game development**, pursuing bachelor CS degree in HSE 
 
 - 📝 I regularly write [posts in personal blog](https://t.me/blog_27325), [longreads](github.com/kik0s/articles)
 
