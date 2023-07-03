@@ -1,15 +1,15 @@
 <h1 align="center"> Welcome to kik0s GitHub profile! </h1>
 
 
-<style>
-    th {
-        display: none;
-    }
-</style>
+<table>
+<tr>
+<td>
 
-| | |
-:---|:---
-![funny gif with coding penguin](penguin.gif) |  <img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s"/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kik0s&" alt="kik0s" /></p>
+![funny gif with coding penguin](penguin.gif) </td>
+<td><img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s"/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kik0s&" alt="kik0s" /></p>
+</td>
+</tr>
+</table>
 
 - 🚀 Backend developer in [Neiro.ai](https://neiro.ai), ex: High.nu, [tinkoff.ru](https://Tinkoff.ru)
 
