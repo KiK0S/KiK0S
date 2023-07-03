@@ -1,5 +1,6 @@
-<h1 align="center"> Welcome to kik0s GitHub profile! </h1>
+<b align="center" style="font-size:18px"> Welcome to kik0s GitHub profile! </b>
 
+|  | |
 :---|---:
 ![funny gif with coding penguin](penguin.gif) |  <img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s"/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kik0s&" alt="kik0s" /></p>
 
