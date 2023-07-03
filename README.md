@@ -12,11 +12,13 @@
 </div>
 
 
-- 🔭 Backend developer in [Neiro.ai](https://neiro.ai), ex: High.nu, [tinkoff.ru](https://Tinkoff.ru)
+
+- 🚀 Backend developer in [Neiro.ai](https://neiro.ai), ex: High.nu, [tinkoff.ru](https://Tinkoff.ru)
 
 - 🌱 BSc in Applied Mathematics and Informatics, HSE'23
 
 - 🌳 Artificial intelligence & Advanced visual computing, Ecole Polytechnique'25.
+
 
 - 📝 I regularly write [posts in personal blog](https://t.me/blog_27325), [longreads](github.com/kik0s/articles)
 
