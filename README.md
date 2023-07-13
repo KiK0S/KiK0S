@@ -19,11 +19,11 @@
 
 - 🌳 Artificial intelligence & Advanced visual computing, **Ecole Polytechnique**'25.
 
-- 📝 I regularly write [posts in personal blog](https://t.me/blog_27325).
+- 📝 I regularly write [posts in personal blog](https://t.me/blog_27325) as well as articles for [personal website](https://kik0s.github.io)
 
 - 📫 You can reach me at **kostya.amelichev@gmail.com**, or **[t.me/kik0s](https://t.me/kik0s)**
 
-- 📄 This is my up-to-date [CV](https://kik0s.github.io/articles/cv-eng/cv-eng.pdf)
+- 📄 This is my up-to-date [CV](https://kik0s.github.io/cv.pdf)
 
 | Connect with me: | Languages | Frameworks | Infrastructure | DB | Misc
 | --- | --- | --- | --- | --- | --- |
