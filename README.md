@@ -23,7 +23,7 @@
 
 - 📫 You can reach me at **kostya.amelichev@gmail.com**, or **[t.me/kik0s](https://t.me/kik0s)**
 
-- 📄 This is my up-to-date [CV](https://kik0s.github.io/cv.pdf)
+- 📄 This is my up-to-date [CV](https://kik0s.github.io/cv)
 
 | Connect with me: | Languages | Frameworks | Infrastructure | DB | Misc
 | --- | --- | --- | --- | --- | --- |
