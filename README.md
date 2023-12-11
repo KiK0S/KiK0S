@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-- 🚀 Backend developer in [Neiro.ai](https://neiro.ai), ex: High.nu, [tinkoff.ru](https://Tinkoff.ru)
+- 🚀 Software developer in [datagrok.ai](https://datagrok.ai), ex: [neiro.ai](https://neiro.ai), High.nu, [tinkoff.ru](https://Tinkoff.ru)
 
 - 🌱 BSc in Applied Mathematics and Informatics, **HSE**'23.
 
