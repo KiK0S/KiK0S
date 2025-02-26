@@ -7,7 +7,7 @@
 <td>
 
 ![funny gif with coding penguin](penguin.gif) </td>
-<td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kik0s&" alt="kik0s" /></p>
+<td>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kik0s" alt="kik0s" /></a> </p>
 <img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="kik0s"/> 
 </td>
