@@ -14,17 +14,17 @@
 </tr>
 </table>
 
-- 🚀 Software developer in [datagrok.ai](https://datagrok.ai), ex: [neiro.ai](https://neiro.ai), High.nu, [tinkoff.ru](https://Tinkoff.ru)
+- 🚀 Software developer in [stockly.ai](https://stockly.ai/), ex: [Huawei Noah's Ark](https://github.com/huawei-noah), [datagrok.ai](https://datagrok.ai), [neiro.ai](https://neiro.ai), High.nu, [tinkoff.ru](https://Tinkoff.ru)
 
 - 🌱 BSc in Applied Mathematics and Informatics, **HSE**'23.
 
-- 🌳 Artificial intelligence & Advanced visual computing, **Ecole Polytechnique**'25.
+- 🌳 MScT in Artificial intelligence & Advanced visual computing, **Ecole Polytechnique**'25.
 
 - 📝 I regularly write [posts in personal blog](https://t.me/blog_27325) as well as articles for [personal website](https://kik0s.github.io)
 
 - 📫 You can reach me at **kostya.amelichev@gmail.com**, or **[t.me/kik0s](https://t.me/kik0s)**
 
-- 📄 This is my up-to-date [CV](https://kik0s.github.io/cv)
+- 📄 I keep my up-to-date [CV here](https://kik0s.github.io/cv)
 
 | Connect with me: | Languages | Frameworks | Infrastructure | DB | Misc
 | --- | --- | --- | --- | --- | --- |
