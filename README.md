@@ -22,7 +22,7 @@
 
 - 📚 ICPC World Finalist 2025, [Codeforces](https://codeforces.com/profile/KiKoS), [AtCoder](https://atcoder.jp/users/KiKoS), sometimes I teach Competitive programming.
 
-- 🏃🏻 Big Orienteering enjoyer, my [CN](https://cn.ffcorientation.fr/historique/45963/)
+- 🏃🏻 Big Orienteering enjoyer, my [CN](https://cn.ffcorientation.fr/cn/45963/)
 
 - 📝 I regularly write [posts in personal blog(ru)](https://t.me/blog_27325), and irregullarly posts for [personal website (ru/en)](https://kik0s.github.io)
 
